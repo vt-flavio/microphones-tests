@@ -1,0 +1,19 @@
+# Essenciais
+numpy
+pandas
+scipy
+soundfile
+jiwer>=3.0
+pyloudnorm
+openpyxl
+
+# Transcrição local (Whisper)
+faster-whisper
+
+# Qualidade estimada sem referência (SQUIM) - pesado; dispensável com --sem-squim
+torch
+torchaudio
+
+# Métricas com referência (só no modo controlado com altifalante)
+pesq
+pystoi
