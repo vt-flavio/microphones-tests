@@ -1,0 +1,3 @@
+micro,cenario,sala,snr_estimado_db,ruido_fundo_dbfs,clipping_pct,squim_stoi,squim_pesq,squim_sisdr,nivel_fala_dbfs,loudness_lufs
+atr4697,A,sala24,30.967,-68.099,0.0,0.917,1.858,4.716,-37.132,-43.994
+psm5000,A,sala24,45.158,-68.396,0.001,0.822,1.443,5.96,-23.239,-28.373

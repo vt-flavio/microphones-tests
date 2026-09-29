@@ -1,0 +1,29 @@
+INFO 22 gravações, 1 guiões
+INFO A carregar Whisper 'large-v3' (auto)...
+INFO HTTP Request: GET https://huggingface.co/api/agent-harnesses "HTTP/1.1 200 OK"
+INFO HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-large-v3/revision/main "HTTP/1.1 200 OK"
+INFO HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-large-v3/tree/edaa852ec7e145841d8ffdb056a99866b5f0a478?recursive=true&expand=false "HTTP/1.1 200 OK"
+INFO HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-large-v3/resolve/edaa852ec7e145841d8ffdb056a99866b5f0a478/model.bin "HTTP/1.1 302 Found"
+INFO HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-large-v3/resolve/edaa852ec7e145841d8ffdb056a99866b5f0a478/preprocessor_config.json "HTTP/1.1 307 Temporary Redirect"
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+WARNING Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+INFO HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-large-v3/resolve/edaa852ec7e145841d8ffdb056a99866b5f0a478/vocabulary.json "HTTP/1.1 307 Temporary Redirect"
+INFO HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-large-v3/resolve/edaa852ec7e145841d8ffdb056a99866b5f0a478/tokenizer.json "HTTP/1.1 307 Temporary Redirect"
+INFO HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-large-v3/resolve/edaa852ec7e145841d8ffdb056a99866b5f0a478/config.json "HTTP/1.1 307 Temporary Redirect"
+INFO HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Systran/faster-whisper-large-v3/edaa852ec7e145841d8ffdb056a99866b5f0a478/preprocessor_config.json?%2FSystran%2Ffaster-whisper-large-v3%2Fresolve%2Fedaa852ec7e145841d8ffdb056a99866b5f0a478%2Fpreprocessor_config.json=&etag=%22931c77a740890c46365c7ae0c9d350ba3cca908f%22 "HTTP/1.1 200 OK"
+INFO HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Systran/faster-whisper-large-v3/edaa852ec7e145841d8ffdb056a99866b5f0a478/tokenizer.json?%2FSystran%2Ffaster-whisper-large-v3%2Fresolve%2Fedaa852ec7e145841d8ffdb056a99866b5f0a478%2Ftokenizer.json=&etag=%223a5e2ba63acdcac9a19ba56cf9bd27f185bfff61%22 "HTTP/1.1 200 OK"
+INFO HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Systran/faster-whisper-large-v3/edaa852ec7e145841d8ffdb056a99866b5f0a478/vocabulary.json?%2FSystran%2Ffaster-whisper-large-v3%2Fresolve%2Fedaa852ec7e145841d8ffdb056a99866b5f0a478%2Fvocabulary.json=&etag=%220adcd01e7c237205d593b707e66dd5d7bc785d2d%22 "HTTP/1.1 200 OK"
+INFO HTTP Request: HEAD https://huggingface.co/api/resolve-cache/models/Systran/faster-whisper-large-v3/edaa852ec7e145841d8ffdb056a99866b5f0a478/config.json?%2FSystran%2Ffaster-whisper-large-v3%2Fresolve%2Fedaa852ec7e145841d8ffdb056a99866b5f0a478%2Fconfig.json=&etag=%2275336feae814999bae6ccccdecf177639ffc6f9d%22 "HTTP/1.1 200 OK"
+INFO HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Systran/faster-whisper-large-v3/edaa852ec7e145841d8ffdb056a99866b5f0a478/preprocessor_config.json?%2FSystran%2Ffaster-whisper-large-v3%2Fresolve%2Fedaa852ec7e145841d8ffdb056a99866b5f0a478%2Fpreprocessor_config.json=&etag=%22931c77a740890c46365c7ae0c9d350ba3cca908f%22 "HTTP/1.1 200 OK"
+INFO HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Systran/faster-whisper-large-v3/edaa852ec7e145841d8ffdb056a99866b5f0a478/vocabulary.json?%2FSystran%2Ffaster-whisper-large-v3%2Fresolve%2Fedaa852ec7e145841d8ffdb056a99866b5f0a478%2Fvocabulary.json=&etag=%220adcd01e7c237205d593b707e66dd5d7bc785d2d%22 "HTTP/1.1 200 OK"
+INFO HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Systran/faster-whisper-large-v3/edaa852ec7e145841d8ffdb056a99866b5f0a478/config.json?%2FSystran%2Ffaster-whisper-large-v3%2Fresolve%2Fedaa852ec7e145841d8ffdb056a99866b5f0a478%2Fconfig.json=&etag=%2275336feae814999bae6ccccdecf177639ffc6f9d%22 "HTTP/1.1 200 OK"
+INFO HTTP Request: GET https://huggingface.co/api/resolve-cache/models/Systran/faster-whisper-large-v3/edaa852ec7e145841d8ffdb056a99866b5f0a478/tokenizer.json?%2FSystran%2Ffaster-whisper-large-v3%2Fresolve%2Fedaa852ec7e145841d8ffdb056a99866b5f0a478%2Ftokenizer.json=&etag=%223a5e2ba63acdcac9a19ba56cf9bd27f185bfff61%22 "HTTP/1.1 200 OK"
+INFO HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-large-v3/xet-read-token/edaa852ec7e145841d8ffdb056a99866b5f0a478 "HTTP/1.1 200 OK"
+[2026-09-29 12:43:30.396] [ctranslate2] [thread 46616] [warning] The compute type inferred from the saved model is float16, but the target device or backend do not support efficient float16 computation. The model weights have been automatically converted to use the float32 compute type instead.
+INFO The local file (/home/flaviovicente/.cache/torch/hub/torchaudio/models/squim_objective_dns2020.pth) exists. Skipping the download.
+INFO [1/22] sala09_A_tecladopapel_f2_g1_t1_atr4697.wav
+INFO Processing audio with duration 02:26.550
+INFO [2/22] sala09_A_tecladopapel_f2_g1_t1_psm5000.wav
+INFO Processing audio with duration 02:26.620
+INFO [3/22] sala09_A_tecladopapel_f2_g1_t1_psm5000com.wav
+INFO Processing audio with duration 02:26.480
